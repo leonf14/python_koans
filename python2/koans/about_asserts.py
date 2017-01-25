@@ -77,3 +77,6 @@ class AboutAsserts(Koan):
         # Need an illustration? More reading can be found here:
         #
         #   http://bit.ly/__class__
+        
+        
+        
